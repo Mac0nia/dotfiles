@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gianluca.galli9519@gmail.com
+	name = Gianluca
